@@ -3,7 +3,7 @@
 
  Education
 - **Branch:** Artificial Intelligence and Machine Learning
-- **Year:** [2025-2029., i am cureently in my 1nd Year]
+- **Year:** [2025-2029., i am cureently in my 2nd Year]
 
 ###  My Goals
 I hope to learn how to build ethical and scalable AI models that can solve real-world problems in automation and healthcare.
