@@ -11,7 +11,7 @@ I hope to learn how to build ethical and scalable AI models that can solve real-
 ---
 
 ### Tech Stack
-* **Languages:** Python, C, C++
+* **Languages:** Python, C, C++,java
 * **Tools:** Git, GitHub, VS Code
 
 ### 📬 How to reach me
